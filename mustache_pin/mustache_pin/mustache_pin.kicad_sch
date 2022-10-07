@@ -385,7 +385,7 @@
     (uuid fa98c304-578a-4324-a590-8199abc23be9)
   )
 
-  (symbol (lib_id "Switch:SW_SPDT") (at 66.04 74.93 0) (unit 1)
+  (symbol (lib_id "Switch:SW_SPDT") (at 66.04 74.93 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 144ea723-06fc-4055-b8ef-501771ff7334)
     (property "Reference" "SW1" (id 0) (at 66.04 67.31 0))
